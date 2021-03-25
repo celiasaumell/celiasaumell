@@ -1,4 +1,4 @@
-### Hi there! my name is Celia.
+### Hi there! My name is Celia.
 
 <!--
 **celiasaumell/celiasaumell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
