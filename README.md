@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Full-Stack Web Developer based in Nashville, Tennessee.
+Aspiring Full-Stack Web Developer based in Nashville, Tennessee.
 
 [![Celia Saumell's GitHub stats](https://github-readme-stats.vercel.app/api?username=celiasaumell&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
