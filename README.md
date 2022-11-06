@@ -23,4 +23,4 @@ Based in Nashville, Tennessee.
 
 [![Celia Saumell's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=celiasaumell&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-🌱 I’m currently learning React.js
+🌱 I’m currently learning Go
